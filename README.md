@@ -7,4 +7,4 @@ I started studying programming at the end of 2020.I am currently studying at the
 - 🤔 I’m looking for help with the practice of programming in Python.
 - 📫 How to reach me: inna.leonova.89@bk.ru
 - ⚡ Fun fact: I like to sing in the shower.
--->
+
